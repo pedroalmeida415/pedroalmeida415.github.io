@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63235504.chunk.css",
+    "main.js": "/static/js/main.b02ddd1c.chunk.js",
+    "main.js.map": "/static/js/main.b02ddd1c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.19d96890.js",
+    "runtime~main.js.map": "/static/js/runtime~main.19d96890.js.map",
+    "static/css/2.3aee629d.chunk.css": "/static/css/2.3aee629d.chunk.css",
+    "static/js/2.e3d4a7e1.chunk.js": "/static/js/2.e3d4a7e1.chunk.js",
+    "static/js/2.e3d4a7e1.chunk.js.map": "/static/js/2.e3d4a7e1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3b86dab0dd2ccaa80407779fe716cc50.js": "/precache-manifest.3b86dab0dd2ccaa80407779fe716cc50.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3aee629d.chunk.css.map": "/static/css/2.3aee629d.chunk.css.map",
+    "static/css/main.63235504.chunk.css.map": "/static/css/main.63235504.chunk.css.map",
+    "static/media/agingPotion.png": "/static/media/agingPotion.7287aa56.png",
+    "static/media/bulgeyePotion.png": "/static/media/bulgeyePotion.4bd51703.png",
+    "static/media/dragonTonic.png": "/static/media/dragonTonic.67feeedc.png",
+    "static/media/lovePotion.png": "/static/media/lovePotion.6521c706.png",
+    "static/media/polyjuicePotion.png": "/static/media/polyjuicePotion.23d73ce7.png",
+    "static/media/sleepingDraught.png": "/static/media/sleepingDraught.ab39e5cc.png"
+  }
+}
